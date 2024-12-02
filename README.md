@@ -1,6 +1,14 @@
 - [x] 生成器-用户画像
 - [x] 生成器-Task(用户画像)
 
+# 模型参数在`src/config.py`中修改
+```python
+# qwen
+API_KEY = ""
+BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+GLOBAL_MODEL = "qwen-plus"
+```
+
 # 生成器-用户画像
 ## 目录结构：
 ```

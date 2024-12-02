@@ -1,5 +1,5 @@
 # qwen
-API_KEY = "sk-cd4c82aa176c471d8307c4128b7aa134"
+API_KEY = ""
 BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 GLOBAL_MODEL = "qwen-plus"
 

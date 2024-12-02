@@ -1,0 +1,13 @@
+{
+    "travel": {
+    "activity": {"type": "str", "description": "activity", "referenceValue": ["进行户外活动","外出游玩","出去放松一下","度假日"]},
+    "favoriteRestaurant": {"type": "str", "description": "favorite restaurant","referenceValue": "重庆火锅"},
+    "favoriteFood": {"type": "str", "description": "favorite food", "referenceValue": "羊肉串"},
+    "favoriteHotel": {"type": "str", "description": "favorite hotel", "referenceValue": "宜家酒店"},
+    "favoriteHotelRoom": {"type": "str", "description": "favorite hotel room", "referenceValue": "大床房"},
+    "trainCabinClass": {"type": "str", "description": "The user's preferred train cabin class.", "referenceValue": "二等座"},
+    "flightCabinClass": {"type": "str", "description": "The user's preferred flight cabin class.", "referenceValue": "经济舱"},
+    "specificRequests": {"type": "str", "description": "special requirements when booking a restaurant or hotel", "referenceValue": ["要有停车位","要有WIFI"]},
+    "specificLocation": {"type": "str", "description": "specific location", "referenceValue": "南京路"}
+  }
+}

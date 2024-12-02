@@ -1,0 +1,34 @@
+[
+    {
+        "personalInfo": {
+            "name": "Alice Johnson",
+            "age": 32,
+            "gender": "woman",
+            "height": 165,
+            "weight": 54,
+            "familyAddress": "北京市朝阳区青年公园8号楼1502室",
+            "phoneNumber": "18899908765",
+            "email": "alicejohnson2023@gmail.com"
+        },
+        "locationPreferences": {
+            "city": "Sydney"
+        },
+        "timePreferences": {
+            "getTodayDate": "今天是哪一天？",
+            "specificTime": "下午5:15",
+            "dateSpan": "下个周末",
+            "timeSpan": "四天后"
+        },
+        "travel": {
+            "activity": "户外冒险运动",
+            "favoriteRestaurant": "地中海风情餐厅",
+            "favoriteFood": "烤羊肉串",
+            "favoriteHotel": "喜来登大酒店",
+            "favoriteHotelRoom": "行政房",
+            "trainCabinClass": "商务座",
+            "flightCabinClass": "头等舱",
+            "specificRequests": "需要安静的房间",
+            "specificLocation": "香榭丽舍大街"
+        }
+    }
+]

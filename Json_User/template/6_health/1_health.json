@@ -1,0 +1,7 @@
+{
+    "healthPreferences": {
+    "dietaryRestrictions": {"type": "str", "description": "A list of any dietary restrictions the user has.", "referenceValue": []},
+    "fitnessLevel": {"type": "str", "description": "The user's fitness level or activity preferences.", "referenceValue": []},
+    "medicalConditions": {"type": "str", "description": "Any medical conditions the user has that may affect preferences.", "referenceValue": []}
+  }
+}

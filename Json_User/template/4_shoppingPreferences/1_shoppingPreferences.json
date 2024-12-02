@@ -1,0 +1,6 @@
+{
+    "shoppingPreferences": {
+    "preferredPaymentMethods": {"type": "str", "description": "Payment methods frequently used by users such as 'wechat pay'", "referenceValue": []},
+    "platforms": {"type": "str", "description": "Online shopping platforms frequently used by users such as 'taobao'", "referenceValue": []}
+  }
+}

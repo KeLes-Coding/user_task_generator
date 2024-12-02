@@ -1,0 +1,34 @@
+[
+    {
+        "personalInfo": {
+            "name": "Ava Smith",
+            "age": 27,
+            "gender": "woman",
+            "height": 172,
+            "weight": 59,
+            "familyAddress": "北京市朝阳区幸福里12号楼2单元801",
+            "phoneNumber": "18765432100",
+            "email": "ava.smith@foxmail.com"
+        },
+        "locationPreferences": {
+            "city": "Sydney"
+        },
+        "timePreferences": {
+            "getTodayDate": "告诉我今天的日期是多少, 让我知道现在是什么时候",
+            "specificTime": "晚上8:30",
+            "dateSpan": "下周五",
+            "timeSpan": "一周后"
+        },
+        "travel": {
+            "activity": "参观当地的文化景点, 尝试一些户外冒险活动",
+            "favoriteRestaurant": "地中海餐厅, 西班牙美食",
+            "favoriteFood": "帕埃利亚, 意大利面",
+            "favoriteHotel": "丽思卡尔顿酒店",
+            "favoriteHotelRoom": "豪华江景套房",
+            "trainCabinClass": "商务座",
+            "flightCabinClass": "头等舱",
+            "specificRequests": "需要无障碍通道, 需要婴儿床",
+            "specificLocation": "歌剧院前的海港桥旁"
+        }
+    }
+]

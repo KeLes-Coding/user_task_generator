@@ -1,0 +1,5 @@
+我计划(activity)，(getTodayDate)？我想知道(city1)(dateSpan)的天气怎么样？我的手机号是(phoneNumber)，你能帮我计划一下吗？
+根据天气情况，请先帮我推荐一些合适的活动吧。
+再查一下那天从(city2)去(city1)的飞机票吧。
+(city1)有哪些出名的特产？(specificTime1)帮我在(specificLocation1)预定一个(specificRequests1)的且是我常去的(favoriteRestaurants)餐厅。
+(specificTime2)帮我在(specificLocation2)预定一家我最喜欢去的(favoriteHotel)酒店，房间是(favoriteHotelRoom)，要求(specificRequests2)。

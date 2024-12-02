@@ -1,0 +1,32 @@
+{
+  "personalInfo": {
+    "name": {"type": "str", "description": "The name of the user", "referenceValue": "John Doe, etc"},
+    "age": {"type": "int", "description": "The age of the user", "referenceValue": "10-80"},
+    "gender": {"type": "str", "description": "gender", "referenceValue": ["man", "woman", "non-binary"]},
+    "height": {"type": "int", "description": "height in centimeters(cm).", "referenceValue": "140-200"},
+    "weight": {"type": "int", "description": "weight in kilograms(kg).", "referenceValue": "30-120"},
+    "familyAddress": {"type": "str", "description": "family address", "referenceValue": "杭州市西湖区西溪花园7号楼203"},
+    "phoneNumber": {"type": "str", "description": "mobile phone number", "referenceValue": "1234567890"},
+    "email": {"type": "str", "description": "email", "referenceValue": "123456789@163.com"}
+  },
+  "locationPreferences": {
+    "city": {"type": "str", "description": "specific city", "referenceValue": "New York, Paris, Tokyo, etc."}
+  },
+  "timePreferences": {
+    "getTodayDate": {"type": "str", "description": "get today's date using natural language", "referenceValue": "查看一下今天的日期是什么,告诉我今天的日期,我想知道今天的日期, etc"},
+    "specificTime": {"type": "str", "description": "specific time", "referenceValue": "上午8:00, 下午3:30, 晚上7:00, etc"},
+    "dateSpan": {"type": "str", "description": "the span of dates such as 'today' or 'tomorrow' or 'two days later' or 'next monday' or others", "referenceValue": "today, tomorrow, next week, etc."},
+    "timeSpan": {"type": "str", "description": "the span of time such as 'two hours later' or 'three hours later' or others", "referenceValue": "two hours later, three days from now, etc."}
+  },
+  "travel": {
+    "activity": {"type": "str", "description": "activity", "referenceValue": "进行户外活动,外出游玩,出去放松一下,度假日, etc"},
+    "favoriteRestaurant": {"type": "str", "description": "favorite restaurant", "referenceValue": "重庆火锅, Italian cuisine, Sushi bar, etc."},
+    "favoriteFood": {"type": "str", "description": "favorite food", "referenceValue": "羊肉串, Pizza, Sushi, etc."},
+    "favoriteHotel": {"type": "str", "description": "favorite hotel", "referenceValue": "宜家酒店, Hilton, Marriott, etc."},
+    "favoriteHotelRoom": {"type": "str", "description": "favorite hotel room", "referenceValue": "大床房, Suite, Deluxe Room, etc."},
+    "trainCabinClass": {"type": "str", "description": "The user's preferred train cabin class.", "referenceValue": "二等座, First Class, Business Class, etc."},
+    "flightCabinClass": {"type": "str", "description": "The user's preferred flight cabin class.", "referenceValue": "经济舱, Business Class, First Class, etc."},
+    "specificRequests": {"type": "str", "description": "special requirements when booking a restaurant or hotel", "referenceValue": "要有停车位,要有WIFI, Non-smoking room, etc."},
+    "specificLocation": {"type": "str", "description": "specific location", "referenceValue": "南京路, Central Park, Eiffel Tower, etc."}
+  }
+}

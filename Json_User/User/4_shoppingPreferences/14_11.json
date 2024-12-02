@@ -1,0 +1,24 @@
+{
+  "personalInfo": {
+      "age": {"type": "int", "description": "The age of the user", "referenceValue": "10-80"},
+      "gender": {"type": "str", "description": "gender", "referenceValue": ["man","woman"]},
+      "height": {"type": "int", "description": "height in centimeters(cm).", "referenceValue": "140-200"},
+      "weight": {"type": "int", "description": "weight in kilograms(kg).", "referenceValue": "30-120"},
+      "familyAddress": {"type": "str", "description": "family address","referenceValue": "杭州市西湖区西溪花园7号楼203"},
+      "phoneNumber": {"type": "str", "description": "mobile phone number","referenceValue": "1234567890"},
+      "email": {"type": "str", "description": "email","referenceValue": "123456789@163.com"}
+    },
+    "locationPreferences": {
+      "city": {"type": "str", "description": "specific city"}
+    },
+    "timePreferences": {
+      "getTodayDate": {"type": "str", "description": "get today's date using natural language", "referenceValue": ["查看一下今天的日期是什么","告诉我今天的日期","我想知道今天的日期"]},
+      "specificTime": {"type": "str", "description": "specific time","referenceValue": "上午8:00"},
+      "dateSpan": {"type": "str", "description": "the span of dates such as 'today' or 'tomorrow' or 'two days later' or 'next monday' or others"},
+      "timeSpan": {"type": "str", "description": "the span of time such as 'two hours later' or 'three hours later' or others"}
+    },
+    "shoppingPreferences": {
+    "preferredPaymentMethods": {"type": "str", "description": "Payment methods frequently used by users such as 'wechat pay'", "referenceValue": []},
+    "platforms": {"type": "str", "description": "Online shopping platforms frequently used by users such as 'taobao'", "referenceValue": []}
+  }
+}

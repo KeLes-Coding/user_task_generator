@@ -1,0 +1,34 @@
+[
+    {
+        "personalInfo": {
+            "name": "Evelyn Carter",
+            "age": 29,
+            "gender": "woman",
+            "height": 167,
+            "weight": 54,
+            "familyAddress": "上海市浦东新区陆家嘴环路1000号A座101室",
+            "phoneNumber": "13609123456",
+            "email": "evelyncarter92@outlook.com"
+        },
+        "locationPreferences": {
+            "city": "London"
+        },
+        "timePreferences": {
+            "getTodayDate": "请问今天是哪一天",
+            "specificTime": "晚上9:15",
+            "dateSpan": "下周三",
+            "timeSpan": "四天之后"
+        },
+        "travel": {
+            "activity": "探索城市历史文化",
+            "favoriteRestaurant": "川味轩餐厅",
+            "favoriteFood": "担担面",
+            "favoriteHotel": "伦敦香格里拉酒店",
+            "favoriteHotelRoom": "豪华海景房",
+            "trainCabinClass": "商务座",
+            "flightCabinClass": "公务舱",
+            "specificRequests": "需要婴儿床, 远离电梯",
+            "specificLocation": "牛津街"
+        }
+    }
+]

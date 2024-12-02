@@ -1,0 +1,34 @@
+[
+    {
+        "personalInfo": {
+            "name": "Alex Johnson",
+            "age": 35,
+            "gender": "non-binary",
+            "height": 178,
+            "weight": 70,
+            "familyAddress": "北京市朝阳区东四环中路3号楼15层",
+            "phoneNumber": "13812345678",
+            "email": "alexjohnson923@example.com"
+        },
+        "locationPreferences": {
+            "city": "Sydney"
+        },
+        "timePreferences": {
+            "getTodayDate": "查看今天是什么日子",
+            "specificTime": "早上7:45",
+            "dateSpan": "三天后",
+            "timeSpan": "一天后"
+        },
+        "travel": {
+            "activity": "参观历史遗迹",
+            "favoriteRestaurant": "西班牙餐厅",
+            "favoriteFood": "牛排",
+            "favoriteHotel": "希尔顿酒店",
+            "favoriteHotelRoom": "标准双人房",
+            "trainCabinClass": "商务座",
+            "flightCabinClass": "头等舱",
+            "specificRequests": "需要无烟房",
+            "specificLocation": "天安门广场"
+        }
+    }
+]
